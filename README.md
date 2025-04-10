@@ -1,2 +1,2 @@
-# vaishnavishetty.github.ioo
+# vaishushetty.github.io
 website
